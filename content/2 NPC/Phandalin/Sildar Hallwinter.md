@@ -1,0 +1,1 @@
+![[elvenpaladin01.png|300]]
