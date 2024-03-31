@@ -83,10 +83,10 @@ export default ((userOpts?: Partial<Options>) => {
   }: QuartzComponentProps) => {
     constructFileTree(allFiles)
     return (
-      <div class={classNames(displayClass, "explorer")}>
+      <div class={classNames(displayClass, "navigation")}>
         <button
           type="button"
-          id="Navigation"
+          id="explorer"
           data-behavior={opts.folderClickBehavior}
           data-collapsed={opts.folderDefaultState}
           data-savestate={opts.useSavedState}
