@@ -1,1 +1,1 @@
-![[elvenpaladin01.png|300]]
+![[quartz layout.png|300]]
