@@ -1,4 +1,4 @@
-Nachdem die Abenteurer die Bergarbeiterbörse verlassen haben, wurden sie von einem Kurier, der von Sildar Hallwinter gesendet wurde, angesprochen.
+Nachdem die Abenteurer die Bergarbeiterbörse verlassen haben, wurden sie von einem Kurier, der von [[Sildar Hallwinter]] gesendet wurde, angesprochen.
 
 Er sagte ihnen, dass Sildar nach ihnen suchen würde und dass sie sich auf den weg zu ihm machen sollen.
 
