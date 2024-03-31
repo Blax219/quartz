@@ -20,11 +20,11 @@ export const defaultContentPageLayout: PageLayout = {
     Component.TagList(),
   ],
   left: [
-    Component.MobileOnly(Component.PageTitle()),
     Component.MobileOnly(Component.Explorer()),
-    Component.DesktopOnly(Component.Search()),
+    Component.MobileOnly(Component.PageTitle()),
     Component.Darkmode(),
     Component.DesktopOnly(Component.PageTitle()),
+    Component.DesktopOnly(Component.Search()),
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
