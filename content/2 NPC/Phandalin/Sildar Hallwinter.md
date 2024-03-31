@@ -1,1 +1,0 @@
-![[quartz layout.png|300]]
