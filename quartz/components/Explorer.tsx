@@ -83,7 +83,7 @@ export default ((userOpts?: Partial<Options>) => {
   }: QuartzComponentProps) => {
     constructFileTree(allFiles)
     return (
-      <div class={classNames(displayClass, "navigation")}>
+      <div class={classNames(displayClass, "explorer")}>
         <button
           type="button"
           id="explorer"
