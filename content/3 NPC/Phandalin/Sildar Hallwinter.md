@@ -2,7 +2,7 @@
 
 
 
-<div style="width: 160px; float: left;">
+<div style="width: 300px; float: left;">
 <p><img src="elvenpaladin01.png" width="224" height="336" alt="Test" /></p>
 <p>Sildar Hallwinter</p>
 </div>
