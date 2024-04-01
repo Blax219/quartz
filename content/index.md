@@ -5,4 +5,4 @@ title: Willkommen
 <a href=“content/npc“><img src='buttonnpc.png' alt="npc" width="75px" height="75px"></a>
 <a href=“content/npc“><img src='buttonnpc.png' alt="npc" width="75px" height="75px"></a>
 <a href=“content/npc“><img src='buttonnpc.png' alt="npc" width="75px" height="75px"></a>
-<a href=“https://blax219.github.io/quartz/3-NPC/Phandalin/Gundren-Felssucher“><img src='buttonnpc.png' alt="npc" width="75px" height="75px"></a>
+<a href=3-NPC/Phandalin/Gundren-Felssucher><img src='buttonnpc.png' alt="npc" width="75px" height="75px"></a>
