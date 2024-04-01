@@ -2,4 +2,4 @@
 title: Sildar Hallwinter
 ---
 
-<img src='docs\images\elvenpaladin01.png'>
+<img src='quartz/docs/images/elvenpaladin01.png'>
