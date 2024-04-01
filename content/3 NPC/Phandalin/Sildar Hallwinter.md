@@ -1,5 +1,5 @@
 
-<img src='elvenpaladin01.png' art="guywithwhitehair" width="224" height="336">
+
 
 
 <div style="width: 160px; float: left;">
