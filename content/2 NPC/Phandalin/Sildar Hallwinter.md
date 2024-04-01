@@ -2,4 +2,4 @@
 title: Sildar
 ---
 
-![elvenpaladin.png](/content/notes/images/elvenpaladin.png)
+![elvenpaladin01.png](/content/notes/images/elvenpaladin01.png)
