@@ -9,7 +9,9 @@ title: Der Grabräuber Vornis
 | Volk                 | Dunkelelf        |
 | Klasse               | Magier Nekromant |
 
-<img src="VornisNoquar01.png" align="middle" width="224" height="336" alt="Vornis" />
+<div align='center'>
+<img src="VornisNoquar01.png" width="224" height="336" alt="Vornis" />
+</div>
 
 >[!note] Brief an A. Nachtigall
 >
