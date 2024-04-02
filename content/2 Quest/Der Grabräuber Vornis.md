@@ -20,10 +20,10 @@ title: Der Grabräuber Vornis
 
 >[!tip] Fundsachen
 >
->Eichenhammer Amulett
->Buch *"Der Kriegsheld Thadgar Eichenhammer"* 
->Buch *"Anatomie der Lebewesen"*
->Phiolen mit roter Flüssigkeit
+Eichenhammer Amulett
+Buch *"Der Kriegsheld Thadgar Eichenhammer"* 
+Buch *"Anatomie der Lebewesen"*
+Phiolen mit roter Flüssigkeit
 
 
 
