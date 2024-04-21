@@ -11,5 +11,5 @@
 >[!tip] Hinweise
 
 <div align='center'>
-<img src="guardsun01.png" width="100" height="100" alt="guardsun" />
+<img src="guardsun01.png" width="200" height="200" alt="guardsun" />
 </div>
