@@ -1,0 +1,17 @@
+### Auf dem Weg nach Donnerbaum
+
+Nachdem die Abenteurer sich noch mit Proviant eingedeckt und in Erfahrung gebracht haben wie sie am besten nach Donnerbaum kommen, machten sie sich auf den Weg dorthin. Nach einige Kilometer auf dem Dreieber Pfad wurden sie auf eine merkwürdige Situation aufmerksam. Eine Kutsche stand am Wegesrand und um sie herum vier Soldaten.
+Panavor, Thiala und Saral versteckten sich schnell hinter den Bäumen und Sträuchern die am Wegesrand standen.
+Mokosh und Pyke blieben mutig auf der Straße stehen und näherten sich langsam der Situation. 
+Eine der Wachen rief einem Ritter in schwarzer Rüstung zu, dass hier nichts sei.
+Pyke erkannte eine Brosche mit einem Vogel an der Rüstung des schwarzen Ritters, auf seinem Schild war eine dunkle Sonne mit 8 Flammen.
+Eine andere Wache wurde dann auf Mokosch und Pyke aufmerksam und näherte sich den beiden. Sie fragte in einem befehligten Ton wer sie sind und wohin sie wollen und woher sie kamen.
+Pyke antwortete und stellte ihnen die gleiche Frage. Die Wache antwortete, dass sie eine Gruppe von 5 Personen suchen, eine von ihnen klein und dass er sich nicht in seine Angelegenheit einmischen soll. Pyke ließ nicht von ihnen ab da er vermutete, dass es sich um einen Überfall handelte. 
+Ein Soldat wurde auf die Situation aufmerksam und kam dazu, Pyke provozierte auch ihn weiter und die Situation eskalierte fast als beide ihre Waffen in die Hand nahmen. In der zwischenzeit rollte Panavor von Busch zu Busch und näherte sich vorsichtig den beiden Besitzern der Kutsche und fragte sie über die Situation aus.
+Der Soldat ließ von Pyke ab nachdem der schwarze Ritter ihn aufforderte die Sache jetzt endlich sein zu lassen. 
+
+
+### In Donnerbaum
+
+Die Gruppe kam in Donnerbaum an. Donnerbaum ist eine verfallene Stadt, es sind überwiedend Ruinen übrig. Sie begangen die Ruinen zu untersuchen. Thiala betrat ein Gebäude, das evtl mal ein Laden gewesen sein könnte und wurde dort von einer Gruppe Zweigplagen überfallen. Sie waren schnell aus dem Weg geräumt. Panavor und Pyke untersuchten ein Gebäude im Norden, das mal eine alte Taverne war. Pyke verursachte Lärm am Eingang und eine Horde Aschezombies erwachten und griffen an. Nachdem auch sie besiegt waren entdeckte Saral etwas unter einem Teppich in einem alten Bauernhaus. Pyke nahm den Teppich zur seite und grub unter ihm einen Schatzkiste aus. Thiala ging zu einem ziemlich intakten Haus im Süden und öffnete vorsichtig die Tür. Ein alter Mann mit grauen Bart saß dort und aß Suppe. Sie begann ein Gespräch mit ihm, erzählte dass er Reidoth sei und hier Untersuchungen machte. verschwand aber schnell wieder weil er sehr Wortkarg war. Pyke und Saral setzten das Gespäch fort und erfuhren dass sich in einem Gebäude am Rande der Stadt eine Gruppe Drachenkultisten sind, im dem alten Turm ein Drache und im verfallenen Gebäude das sich gegenüber befindet einige Spinnen. Er forderte sie auf sich um den Drachen zu kümmern weil er Abenteurer anlockt und er in Donnerbaum lieber seine Ruhe haben möchte. 
+Die Gruppe kümmerte sich um die Spinnen indem Saral mit einem Feuerpfeil die Spinnen raustrieb und der Rest sich um sie kümmerte. Mokosh wurde bei dem Kampf schwer getroffen und vergiftet. 
